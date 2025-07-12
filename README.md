@@ -28,4 +28,4 @@ I made this to re-learn how to build a project from scratch on my own.
 In my current research program, I work on a large VR project with extensive systems and tooling.  
 This project helped me get back into 2D Unity development and refresh my knowledge of the animation system, which I usually leave to the digital artists on my team.  
 I ran into various bugs related to running multiple coroutines, which are not used often in the work I normally do, and came away with a better understanding of how to manage them properly.  
-The end result would be helpful for someone looking to make their own 2D top-down shooter as a template to build upon.
+The end result would be helpful for someone looking to make their own 2D top-down shooter as a template to build upon and add more features to.
