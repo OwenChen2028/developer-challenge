@@ -4,7 +4,7 @@ Author: Owen Chen
 All rights reserved
 
 ## Deployed Application
-TBD – working on it
+https://elephantfanatic.itch.io/developer-challenge?secret=VHFElzz65oE30ZGEcwOB1dtXo
 
 ## Tools Used
 - Unity (2019 LTS for faster compile times, though I normally work in a newer version)
@@ -21,7 +21,8 @@ I focused primarily on gameplay polish and code modularity.
 I made this to re-learn how to build a project from scratch on my own.  
 In my current research program, I work on a large VR project with extensive systems and tooling.  
 This project helped me get back into 2D Unity development and refresh my knowledge of the animation system, which I usually leave to the digital artists on my team.  
-I ran into various bugs related to running multiple coroutines, which are not used often in the work I normally do, and came away with a better understanding of how to manage them properly.
+I ran into various bugs related to running multiple coroutines, which are not used often in the work I normally do, and came away with a better understanding of how to manage them properly.  
+The end result would be helpful for someone looking to make their own 2D top-down shooter as a template to build upon.
 
-## Screenshots / Demo
-TBD
+## Video Demo
+[![Watch the video](https://img.youtube.com/vi/fpxQc7ouXVc/maxresdefault.jpg)](https://www.youtube.com/watch?v=fpxQc7ouXVc)
